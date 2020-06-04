@@ -1,5 +1,7 @@
 # FullThrottleLab_BackendTest
-Backend Test - FullThrottle Labs
+Backend Test - FullThrottle Lab
+
+Author : Mallikarjun J
 
 In this Readme File, the below topics are discussed:
   1.Overview of the requirement(test)
