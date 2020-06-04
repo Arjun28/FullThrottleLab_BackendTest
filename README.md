@@ -28,7 +28,7 @@ b. Sessions
   c. tz - eg:America/Los_Angels
 
 3B. Sessions table store the following data:
-  a. text_id (forignkey) - eg:W012A3CDE
+  a. text_id (foreignkey) - eg:W012A3CDE
   b. start_time - eg: "Mar 1 2020  11:11AM"
   c. end_time - eg: "Mar 1 2020  20:00PM"
   
