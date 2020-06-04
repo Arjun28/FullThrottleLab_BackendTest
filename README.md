@@ -15,7 +15,7 @@ In this Readme File, the below topics are discussed:
 
 
 1. Overview of the requirement:
-The requirement for the test is to build a simple python/django backend system that reads a data from backend database(here, default SQLite3) data and display the output JSON API format. And to make this project ready to deply on Heroku.
+The requirement for the test is to build a simple python/django backend system that reads a data from backend database(here, default SQLite3) data and display the output JSON API format. And to make this project ready to deploy on Heroku.
 
 2. Database:
 In this project, I use the default SQLite DB. With the help of django Model, two tables are created and populate with sample dummy data:
