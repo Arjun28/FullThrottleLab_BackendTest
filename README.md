@@ -38,5 +38,6 @@ To make this project ready, the necessary files needs to be created and placed i
 
 
 6. Project structure.
+  Virtual Environment - venv_FTLabs_test
   Project directory - FT_djangoProject
   Application directory - FT_testApp 
